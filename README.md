@@ -7,6 +7,9 @@ https://github.com/nlpming/deeplearning.ai/tree/master/logistic_regression
 https://github.com/nlpming/deeplearning.ai/tree/master/shallow_neural_networks
 
 ### deep neural networks
+https://github.com/nlpming/deeplearning.ai/tree/master/deep_neural_networks
+
+
 
 
 ### 参考资料
