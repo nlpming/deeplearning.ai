@@ -15,4 +15,7 @@ https://github.com/nlpming/deeplearning.ai/tree/master/deep_neural_networks
 ### 参考资料
 - 课程学习：深度学习工程师（吴恩达）
 https://study.163.com/my#/smarts
-
+- 课程代码
+https://github.com/marsggbo/deeplearning.ai_JupyterNotebooks
+https://github.com/JudasDie/deeplearning.ai
+https://github.com/enggen/Deep-Learning-Coursera
