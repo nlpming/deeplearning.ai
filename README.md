@@ -9,6 +9,14 @@ https://github.com/nlpming/deeplearning.ai/tree/master/shallow_neural_networks
 ### deep neural networks
 https://github.com/nlpming/deeplearning.ai/tree/master/deep_neural_networks
 
+### Initialization
+https://github.com/nlpming/deeplearning.ai/tree/master/Initialization
+
+### Regularization
+https://github.com/nlpming/deeplearning.ai/tree/master/Regularization
+
+### Gradient checking
+https://github.com/nlpming/deeplearning.ai/tree/master/Gradient%20checking
 
 
 
@@ -19,3 +27,5 @@ https://study.163.com/my#/smarts
 1. https://github.com/marsggbo/deeplearning.ai_JupyterNotebooks
 2. https://github.com/JudasDie/deeplearning.ai
 3. https://github.com/enggen/Deep-Learning-Coursera
+
+
