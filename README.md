@@ -18,6 +18,7 @@ https://github.com/nlpming/deeplearning.ai/tree/master/Regularization
 ### Gradient checking
 https://github.com/nlpming/deeplearning.ai/tree/master/Gradient%20checking
 
+### TensorFlow 2.0
 
 
 ### 参考资料
