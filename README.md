@@ -19,7 +19,7 @@ https://github.com/nlpming/deeplearning.ai/tree/master/Regularization
 https://github.com/nlpming/deeplearning.ai/tree/master/Gradient%20checking
 
 ### TensorFlow 2.0
-
+https://github.com/nlpming/deeplearning.ai/tree/master/tensorflow_tutorial
 
 ### 参考资料
 - 课程学习：深度学习工程师（吴恩达）
